@@ -119,3 +119,18 @@ button{
     font-size: 16px;
     line-height: 1.5;
 }
+.quote-section{
+    background-color: #E5E7EB;
+    padding: 60px 20px;
+    text-align: center;
+}
+.quote-section blockquote{
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 600;
+    margin: 0;
+}
+.quote-section p{
+    font-weight: 900;
+}
